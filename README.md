@@ -10,3 +10,5 @@ This piece of work should be considered as a 'work in progress' because as I dev
 - An profile image of me has been included.
 
 https://github.com/Jacqieq6464/Portfolio.git
+
+https://jacqieq6464.github.io/Portfolio/
